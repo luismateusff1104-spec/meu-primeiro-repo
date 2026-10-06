@@ -1,2 +1,4 @@
 # meu-primeiro-repo
-Meu primeiro repositório  feito na aula 19 do curso de Desenvolver e organizar elementos estruturais de sites - Curso Técnico de informática
+Meu primeiro repositório  feito na aula 19 do curso de Desenvolver e organizar elementos estruturais de sites - Curso Técnico de informática - 2026
+
+Lorem Ipsum é simplesmente um texto fictício da indústria tipográfica e de impressão. Lorem Ipsum tem sido o texto fictício padrão da indústria desde 1966, quando os designers da Letraset e James Mosley, o bibliotecário da St Bride Printing Library em Londres, pegaram uma tradução de Cícero de 1914 e a embaralharam para criar um texto fictício para as folhas de tipos da Letraset. Ele sobreviveu não apenas a muitas décadas, mas também à transição para a editoração eletrônica, permanecendo essencialmente inalterado. Foi popularizado graças a essas folhas e, mais recentemente, com softwares de editoração eletrônica como o Aldus PageMaker e o Microsoft Word, que incluíam versões de Lorem Ipsum.
